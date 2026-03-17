@@ -54,7 +54,7 @@
 
 ## 🔥 Em evolução
 
-- Microsserviços
+- Microsservicos
 - Arquitetura de sistemas
 - Programação reativa
 - Mensageria (Kafka)
